@@ -60,7 +60,8 @@ RegisterNumber: 25008956
 */
 
 ## Output:
-
+Slope (m): 0.6
+Intercept (c): 2.2
 <img width="567" height="453" alt="image" src="https://github.com/user-attachments/assets/66f6ac20-18f0-4c8e-a054-677e2b893f1b" />
 
 
